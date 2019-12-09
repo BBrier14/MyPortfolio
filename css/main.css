@@ -2493,3 +2493,8 @@ a.more-link:hover,
 #github {
 	text-align: center;
 }
+
+/*UPDATE TO ABOUT ME SECTION */
+#myintro {
+	width: 500px;
+}
